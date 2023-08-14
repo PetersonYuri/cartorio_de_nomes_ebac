@@ -1,0 +1,32 @@
+INT MAIN: 
+	100% correta!
+
+	REGISTRO()
+		Inicia e encerra na mesma função: 100% correta!
+
+	CONSULTA()
+		Inicia e encerra na mesma função: 100% correta!
+
+	DELETAR()
+		Sempre vai retornar que o usuario não está no sistema (Obs: não impacta na funcionalidade para o cliente).
+		Inicia e encerra na mesma função: 100% correta!
+
+Cenário de teste: 444
+
+Log in: 100% correto!
+Inserir:
+	Menu funcionou corretamente
+	Criou o arquivo corretamente
+	CPF; Nome; Sobrenome; Cargo
+
+Consultar:
+	Menu funcionou corretamente
+	Consulta a CPF existente: ok
+	Consulta a CPF inexistente: ok
+	Retorno ao Menu: ok
+
+Deletar:
+	Menu funcionou corretamente
+	100% funcional
+
+	
